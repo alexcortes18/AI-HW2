@@ -1,0 +1,9 @@
+/images
+/images_test
+/Datasets
+/uploads
+/wafer-map-hw2
+x.pickle
+x_to_predict.pickle
+y.pickle
+
